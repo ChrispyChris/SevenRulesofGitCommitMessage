@@ -9,4 +9,4 @@ Seven short rules that every commit message should follow.
 1. Wrap the body at 72 characters
 1. Use the body to explain what and why vs. how
 
-Source:_https://chris.beams.io/posts/git-commit/_
+Source: _https://chris.beams.io/posts/git-commit/_
